@@ -3,7 +3,8 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { NgModule } from '@angular/core';
 import { NgxHoverOpacityModule } from 'ngx-hover-opacity';
 import { AppComponent } from './app.component';
-import { MatCardModule, MatButtonModule } from '@angular/material';
+import { MatButtonModule } from '@angular/material/button';
+import { MatCardModule } from '@angular/material/card';
 
 const MATERIAL_MODULES = [MatCardModule, MatButtonModule];
 
