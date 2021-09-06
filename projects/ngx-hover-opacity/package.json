@@ -15,6 +15,9 @@
     "opacity"
   ],
   "license": "MIT",
+  "dependencies": {
+    "tslib": "^2.0.0"
+  },
   "peerDependencies": {
     "@angular/common": "^11.1.0",
     "@angular/core": "^11.1.0"
