@@ -1,13 +1,13 @@
 {
   "name": "ngx-hover-opacity",
-  "version": "0.3.1",
+  "version": "0.4.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/maxime1992/ngx-hover-opacity"
+    "url": "https://github.com/hreimer/ngx-hover-opacity"
   },
   "author": {
-    "name": "Maxime ROBERT",
-    "email": "maxime.robert1992@gmail.com"
+    "name": "Heinrich Reimer",
+    "email": "heinrich.reimer@gmail.com"
   },
   "keywords": [
     "angular",
