@@ -10,11 +10,11 @@ Run `ng generate component component-name --project ngx-hover-opacity` to genera
 
 ## Build
 
-Run `ng build ngx-hover-opacity` to build the project. The build artifacts will be stored in the `dist/` directory.
+Run `ng build ngx-hover-opacity --configuration production` to build the project. The build artifacts will be stored in the `dist/` directory.
 
 ## Publishing
 
-After building your library with `ng build ngx-hover-opacity`, go to the dist folder `cd dist/ngx-hover-opacity` and run `npm publish`.
+After building your library with `ng build ngx-hover-opacity --configuration production`, go to the dist folder `cd dist/ngx-hover-opacity` and run `npm publish ./ --access public`.
 
 ## Running unit tests
 
