@@ -1,6 +1,6 @@
 {
-  "name": "ngx-hover-opacity",
-  "version": "0.4.0",
+  "name": "@hreimer/ngx-hover-opacity",
+  "version": "0.11.1",
   "repository": {
     "type": "git",
     "url": "https://github.com/hreimer/ngx-hover-opacity"
