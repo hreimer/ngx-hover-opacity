@@ -1,6 +1,6 @@
 {
   "name": "@hreimer/ngx-hover-opacity",
-  "version": "0.13.0",
+  "version": "0.13.1",
   "repository": {
     "type": "git",
     "url": "git-ssh://git@github.com/hreimer/ngx-hover-opacity.git"
@@ -16,7 +16,7 @@
     "tslib": "^2.0.0"
   },
   "peerDependencies": {
-    "@angular/common": ">=11.1 <= 13.2.5",
-    "@angular/core": ">=11.1 <= 13.2.5"
+    "@angular/common": "^11.0.0 || ^12.0.0 || ^13.0.0",
+    "@angular/core":"^11.0.0 || ^12.0.0 || ^13.0.0"
   }
 }
